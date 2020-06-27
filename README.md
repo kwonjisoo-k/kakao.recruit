@@ -4,8 +4,8 @@
 
 머니 뿌리기 기능을 수행하는 REST API 구현
 
-* 사용 라이브러리
-** Spring Boot
+사용 라이브러리
+* Spring Boot
 * MySql
 * ActiveMQ
 --------------------
